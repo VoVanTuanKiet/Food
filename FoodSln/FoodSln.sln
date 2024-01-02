@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Web", "Food.Web\Food.Web.csproj", "{0D19691C-EEE2-4228-9CCF-C668A548903A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Web.API", "Food.Web.API\Food.Web.API.csproj", "{0EDD82E0-DBC1-45F1-84CC-8BF8AA26F48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D19691C-EEE2-4228-9CCF-C668A548903A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D19691C-EEE2-4228-9CCF-C668A548903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D19691C-EEE2-4228-9CCF-C668A548903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D19691C-EEE2-4228-9CCF-C668A548903A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDD82E0-DBC1-45F1-84CC-8BF8AA26F48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDD82E0-DBC1-45F1-84CC-8BF8AA26F48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDD82E0-DBC1-45F1-84CC-8BF8AA26F48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDD82E0-DBC1-45F1-84CC-8BF8AA26F48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
